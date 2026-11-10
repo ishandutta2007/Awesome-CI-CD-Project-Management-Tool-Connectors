@@ -61,9 +61,9 @@ Below is a comparison of leading hosted CI/CD connectors, project management bri
 
 ## 💻 Open-Source GitHub Projects
 
-Self-hosted, vendor-neutral integration platforms, CI/CD runners, and workflow orchestrators. Sorted by **GitHub Stars (Descending)**. 🌟
+Self-hosted, vendor-neutral integration platforms, CI/CD runners, and workflow orchestrators. Sorted by **GitHub_Stars (Descending)**. 🌟
 
-| Project | Stars | Primary Focus | Description |
+| Project | GitHub_Stars | Primary Focus | Description |
 |:---|:---|:---|:---|
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Workflow Automation & iPaaS | Fair-code workflow automation tool with 400+ native nodes connecting GitHub, GitLab, Jira, Slack, Discord, and REST APIs without per-task limits. |
 | **[Ansible](https://github.com/ansible/ansible)** | [![Stars](https://img.shields.io/github/stars/ansible/ansible?style=social&color=white)](https://github.com/ansible/ansible/stargazers) | IT Automation & Configuration | Radically simple IT automation engine automating cloud provisioning, configuration management, application deployment, and continuous delivery. |
@@ -115,8 +115,8 @@ We welcome additions, fixes, and updates from the community! 🙌
 1. **Fork** this repository.
 2. **Add or update** entries in `README.md` following the existing format:
    - For SaaS products: Include specific starting tier pricing, explicit free tier / trial limits, and official company valuation / market cap.
-   - For Open-Source projects: Include active GitHub link, social white star badge linking to `/stargazers`, and 1–2 sentence description.
-3. Ensure tables remain **sorted** (SaaS by Valuation descending, OSS by Star count descending).
+   - For Open-Source projects: Include active GitHub link, social white Stars_Badge linking to `/stargazers`, and 1–2 sentence description.
+3. Ensure tables remain **sorted** (SaaS by Valuation descending, OSS by Stars_Count descending).
 4. **Submit a Pull Request** with a concise description of your additions.
 
 ---
@@ -143,3 +143,12 @@ Your support keeps this list updated, accurate, and community-driven! 🙏
 - This list is **community-curated** for educational and architectural reference — not a paid endorsement.
 - SaaS pricing structures, marketplace revenue shares, and free tier limits change frequently; verify directly with each vendor's documentation before making purchasing decisions.
 - Secure all connector API keys, OAuth tokens, and webhook secrets using secrets managers (such as HashiCorp Vault or cloud provider KMS) with least-privilege permissions.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-CI-CD-Project-Management-Tool-Connectors&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-CI-CD-Project-Management-Tool-Connectors_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-CI-CD-Project-Management-Tool-Connectors_growth.svg">
+  </picture>
+</a>
