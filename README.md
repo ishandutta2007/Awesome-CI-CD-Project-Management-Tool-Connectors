@@ -1,34 +1,46 @@
-# Awesome CI/CD & Project Management Tool Connectors
+<div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![Tracked Connectors](https://img.shields.io/badge/Connectors_Tracked-20+-blue.svg)](#saas-platforms)
+<img src="./assets/banner.svg" alt="Awesome CI/CD &amp; Project Management Tool Connectors Banner" width="100%" />
 
-> A curated list of production-ready SaaS integration platforms, open-source workflow automation engines, and cross-platform connectors bridging CI/CD pipelines with project management, issue tracking, and team collaboration tools.
+# 🚀 Awesome CI/CD & Project Management Tool Connectors
 
----
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License" /></a>
+  <a href="#-saas-platforms"><img src="https://img.shields.io/badge/Connectors_Tracked-20+-blue.svg" alt="Tracked Connectors" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS Platforms](#saas-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Architecture & Key Integration Patterns](#architecture--key-integration-patterns)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+**A curated list of production-ready SaaS integration platforms, open-source workflow automation engines, and cross-platform connectors bridging CI/CD pipelines with project management, issue tracking, and team collaboration tools.** ⚡
 
----
-
-## Sector Overview & Market Dynamics
-
-The integration middleware and workflow automation sector is valued between **$32 billion and $45 billion** globally (with Integration Platform as a Service / iPaaS accounting for ~$10B–$15B and enterprise workflow automation representing ~$25B–$30B), growing at a compound annual growth rate (CAGR) of 19% to 24%.
-
-The market is **moderately fragmented**: mega-ecosystem incumbents (Microsoft, Salesforce, Atlassian, and ServiceNow) capture roughly 30% of aggregate enterprise volume through native app directories and operating systems of record, while the remaining 70% is distributed across dedicated cloud iPaaS providers (Zapier, Make), developer-centric continuous delivery tools (GitLab, CircleCI, BrowserStack), and a thriving tier of open-source self-hosted automation engines.
+</div>
 
 ---
 
-## SaaS Platforms
+## 📑 Table of Contents
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS Platforms](#-saas-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Architecture & Key Integration Patterns](#-architecture--key-integration-patterns)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
+- [⚖️ Disclaimer](#-disclaimer)
 
-Below is a comparison of leading hosted CI/CD connectors, project management bridges, and workflow automation platforms, sorted by **Company Valuation / Market Cap (Descending)**.
+---
+
+## 🌐 Sector Overview & Market Dynamics
+
+The integration middleware and workflow automation sector is valued between **$32 billion and $45 billion** globally (with Integration Platform as a Service / iPaaS accounting for ~$10B–$15B and enterprise workflow automation representing ~$25B–$30B), growing at an impressive compound annual growth rate (CAGR) of 19% to 24%. 📈
+
+The market is **moderately fragmented**: mega-ecosystem incumbents (Microsoft, Salesforce, Atlassian, and ServiceNow) capture roughly 30% of aggregate enterprise volume through native app directories and operating systems of record, while the remaining 70% is distributed across dedicated cloud iPaaS providers (Zapier, Make), developer-centric continuous delivery tools (GitLab, CircleCI, BrowserStack), and a thriving tier of open-source self-hosted automation engines. 🧩
+
+---
+
+## ☁️ SaaS Platforms
+
+Below is a comparison of leading hosted CI/CD connectors, project management bridges, and workflow automation platforms, sorted by **Company Valuation / Market Cap (Descending)**. 🏢
 
 | Product | Company Valuation / Market Cap | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
 |:---|:---|:---|:---|:---|
@@ -47,9 +59,9 @@ Below is a comparison of leading hosted CI/CD connectors, project management bri
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-Self-hosted, vendor-neutral integration platforms, CI/CD runners, and workflow orchestrators. Sorted by **GitHub Stars (Descending)**.
+Self-hosted, vendor-neutral integration platforms, CI/CD runners, and workflow orchestrators. Sorted by **GitHub Stars (Descending)**. 🌟
 
 | Project | Stars | Primary Focus | Description |
 |:---|:---|:---|:---|
@@ -62,7 +74,7 @@ Self-hosted, vendor-neutral integration platforms, CI/CD runners, and workflow o
 | **[Activepieces](https://github.com/activepieces/activepieces)** | [![Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) | Open-Source Zapier Alternative | No-code business and developer automation tool with 200+ TypeScript-native connectors for GitHub, Linear, Jira, Slack, and Discord. |
 | **[Argo CD](https://github.com/argoproj/argo-cd)** | [![Stars](https://img.shields.io/github/stars/argoproj/argo-cd?style=social&color=white)](https://github.com/argoproj/argo-cd/stargazers) | GitOps Continuous Delivery | Declarative GitOps continuous delivery tool for Kubernetes that links Git commits directly to live cluster states with webhook and notification integrations. |
 | **[Temporal](https://github.com/temporalio/temporal)** | [![Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) | Resilient Workflow Orchestration | Open-source platform for orchestrating mission-critical multi-step deployment pipelines, long-running CI jobs, and cross-system sync flows. |
-| **[Prefect](https://github.com/PrefectHQ/prefect)** | [![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect)](https://github.com/PrefectHQ/prefect/stargazers) | Workflow Orchestration | Python-native workflow engine with built-in task scheduling, failure recovery, and notification connectors for modern platform engineering. |
+| **[Prefect](https://github.com/PrefectHQ/prefect)** | [![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers) | Workflow Orchestration | Python-native workflow engine with built-in task scheduling, failure recovery, and notification connectors for modern platform engineering. |
 | **[Argo Workflows](https://github.com/argoproj/argo-workflows)** | [![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers) | Kubernetes Workflow Engine | Container-native workflow engine orchestrating parallel jobs, continuous delivery pipelines, and step-by-step CI tasks natively on Kubernetes. |
 | **[Tekton Pipelines](https://github.com/tektoncd/pipeline)** | [![Stars](https://img.shields.io/github/stars/tektoncd/pipeline?style=social&color=white)](https://github.com/tektoncd/pipeline/stargazers) | Cloud-Native CI/CD Framework | Kubernetes-native framework for creating reusable, composable continuous integration and delivery systems with event triggers. |
 | **[Woodpecker CI](https://github.com/woodpecker-ci/woodpecker)** | [![Stars](https://img.shields.io/github/stars/woodpecker-ci/woodpecker?style=social&color=white)](https://github.com/woodpecker-ci/woodpecker/stargazers) | Lightweight CI/CD Engine | Community-driven container-based CI engine forked from Drone with complete pipeline configuration in YAML and webhook notifications. |
@@ -73,9 +85,9 @@ Self-hosted, vendor-neutral integration platforms, CI/CD runners, and workflow o
 
 ---
 
-## Architecture & Key Integration Patterns
+## 🏗️ Architecture & Key Integration Patterns
 
-When connecting CI/CD pipelines to project management systems, platform teams commonly employ three distinct architectural patterns:
+When connecting CI/CD pipelines to project management systems, platform teams commonly employ three distinct architectural patterns: ⚙️
 
 ```
 +--------------------------------------------------------------------------------------------------+
@@ -90,15 +102,15 @@ When connecting CI/CD pipelines to project management systems, platform teams co
 +--------------------------------------------------------------------------------------------------+
 ```
 
-1. **Webhook-Driven Event Forwarding**: Lightweight HTTP callbacks triggered on pipeline completion (e.g., commit push, test pass/fail) sending payloads to chat channels or issue trackers.
-2. **Bidirectional State Synchronization**: Full synchronization engines that transition Jira/Linear tickets when a pull request merges, and conversely trigger CI builds when a sprint issue enters a specific status.
-3. **Quality Gates & Governance Connectors**: Pre-deployment validation bridges (e.g., BrowserStack automated test reports, SonarQube quality gates) preventing production rollouts unless project acceptance criteria and security checks pass.
+1. **🔗 Webhook-Driven Event Forwarding**: Lightweight HTTP callbacks triggered on pipeline completion (e.g., commit push, test pass/fail) sending payloads to chat channels or issue trackers.
+2. **🔄 Bidirectional State Synchronization**: Full synchronization engines that transition Jira/Linear tickets when a pull request merges, and conversely trigger CI builds when a sprint issue enters a specific status.
+3. **🛡️ Quality Gates & Governance Connectors**: Pre-deployment validation bridges (e.g., BrowserStack automated test reports, SonarQube quality gates) preventing production rollouts unless project acceptance criteria and security checks pass.
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-We welcome additions, fixes, and updates from the community!
+We welcome additions, fixes, and updates from the community! 🙌
 
 1. **Fork** this repository.
 2. **Add or update** entries in `README.md` following the existing format:
@@ -109,7 +121,24 @@ We welcome additions, fixes, and updates from the community!
 
 ---
 
-## Disclaimer
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-CI-CD-Project-Management-Tool-Connectors&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-CI-CD-Project-Management-Tool-Connectors&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for exploring and supporting this curated resource! If you find this project valuable, please consider:
+- ⭐ **Starring** this repository to help others discover it.
+- 🍴 **Forking** and contributing new connectors or updates.
+- 📢 **Sharing** this repository with your DevOps, SRE, and platform engineering peers.
+- ☕ **Buying a coffee / sponsoring** the maintainer via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this list updated, accurate, and community-driven! 🙏
+
+---
+
+## ⚖️ Disclaimer
 
 - This list is **community-curated** for educational and architectural reference — not a paid endorsement.
 - SaaS pricing structures, marketplace revenue shares, and free tier limits change frequently; verify directly with each vendor's documentation before making purchasing decisions.
